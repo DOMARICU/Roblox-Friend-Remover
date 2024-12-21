@@ -1,6 +1,7 @@
 # README
 
-## Roblox Friend Remover
+## Roblox Friend Remover by Vortex
+https://discord.gg/DNgMdVfxJu
 
 This script automates the process of removing all friends from a Roblox account. It interacts with Roblox's API endpoints to retrieve your friend list and remove them individually.
 
